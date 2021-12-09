@@ -1,0 +1,41 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: rgb(67, 62, 62);
+}
+/*------------------------ task-2 -------------------------*/
+.container-2 {
+  border: 3px dotted rgb(226, 211, 43);
+  width: 98%;
+  margin: 20px auto;
+  text-align: center;
+}
+.second-h2 {
+  color: rgb(226, 211, 43);
+}
+.second-h2:hover {
+  color: rgb(148, 254, 1);
+}
+.btn-success {
+  background-color: aqua;
+  color: rgb(57, 49, 41);
+}
+.btn-success:hover,
+.btn-success:focus {
+  background-color: rgb(7, 162, 162);
+  border: 1px solid rgb(0, 109, 111);
+}
+.flex-box-container-2 {
+  display: flex;
+  padding: 10px;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  border: 1px dotted rgb(226, 211, 43);
+}
+.flex-box-container-2 img {
+  margin: 10px;
+  max-width: 200px;
+  box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
+}
