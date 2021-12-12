@@ -1,0 +1,1 @@
+This repository contains HTML, CSS, and JavaScript files for "Cat Generator". What this basically does is everytime you refresh the page and click on "Generate Cat" Button, you get random cat gifs. You can generate unlimited same gifs without refreshing the page just by clicking on the button.
